@@ -1,6 +1,6 @@
 # somi-2019
-this is a personal profile readme for my class assignment .
-Somayeh Sadeghizadeh
+## Somayeh Sadeghizadeh
+## Master of Engineering Management
 
 ## WorldCupMatches
 
@@ -9,53 +9,52 @@ For this mini project I worked on world cup matches dataset, which includes matc
 ![11](https://user-images.githubusercontent.com/70166302/99699013-7b127900-2a5f-11eb-8ac9-471b6d6372aa.jpeg)
 
 
-* Checking the distribution of *Total Goals* using the *hist()* function. We can see in the graphs that the data is skewed to the right.
+* Distribution of *Total Goals* using the *hist()* function. We can see in the graphs that the data is skewed to the right.
 
 ![2](https://user-images.githubusercontent.com/70166302/99691907-b610ae80-2a57-11eb-9108-f726feacd8dd.png)
 
 
 
-*	Attendance in Home Town : to show Drawing number of attendances in home team matches in different cities, attendance in cities like London and Mexico City and Los Angeles were more than other cities for, to be more specific I filtered number of audiences between 70,000 to 150,000 and used the function of facet_wrap to separate cities.
+*	Attendance in Home Town: Attendance in cities like *London* and *Mexico City* and *Los Angeles* were more than other cities for, to be more specific I filtered number of  audiences  between *70,000 to 150,000* and used the function of *facet_wrap* to separate cities.
 
 ![12](https://user-images.githubusercontent.com/70166302/99699679-376c3f00-2a60-11eb-8a6e-c802c31fc6fd.png)
 
-*	Attendance VS. Home Team Name (More than 50000 attendance): Another format for checking games with high number of audiences for hometown games filled with total goals, in Brazil and Mexico had most audiences in home town matches.
+*	Attendance VS. Home Team Games (More than *50000* attendance): Another format for checking games with high number of audiences for hometown games filled with total goals, *Brazil and Mexico* had most audiences in home town matches.
 
 ![5](https://user-images.githubusercontent.com/70166302/99691923-bad56280-2a57-11eb-99db-4b0a2359a4d3.png)
 
-*	Attendance of Winning Teams with the Location of Game: This plot shows relationship of attendance vs winning teams and the location of matches are colored disceretly,also Netherland match there were fewest attendance to watch the game.
+*	Attendance of Winning Teams with the Location of Game: This plot shows relationship of attendance vs winning teams and the location of matches, colored disceretly,also *Netherland* match there were fewest attendance to watch the game.
 
 ![6](https://user-images.githubusercontent.com/70166302/99691929-bc068f80-2a57-11eb-947b-2b53e66ace3a.png)
 
 
-*	Attendance vs. Date: Plot shows relation of attendance versus the year the match was held, it is also colored by winning team, using the scale_colour_iwanthue() function and palette of hues which has lots of colors for qualitative variable. Italy in 1970 has the most audiences more than 100,000 people.
+*	Attendance vs. Date: Plot shows relation of attendance versus the year the match was held, it is also colored by winning team, using the *scale_colour_iwanthue()* function and *palette of hues* which has lots of colors for qualitative variable. *Italy* in *1970* has the most audiences more than *100,000* people.
 
 ![7](https://user-images.githubusercontent.com/70166302/99691933-bd37bc80-2a57-11eb-94d6-26bb08d2608d.png)
 
-*	Away team goals vs. Home team goals in USA: to check one country situations specifically USA home team goals vs. away team goals was considered, there were 5 away team goals for Czechoslovakia and 1 home team goals for USA, also 3 goals for USA and 0 for Paraguay, this way we can check every country more specifically. For writing on the plot, used annotate function and geom_label_repel to have rectangle labels.
+*	Away team goals vs. Home team goals in USA: to check one country situations specifically *USA* home team goals vs. away team goals was considered, there were 5 away team goals for *Czechoslovakia* and 1 home team goals for *USA*, also 3 goals for *USA* and 0 for *Paraguay*, this way we can check every country more specifically. For writing on the plot, used annotate function and geom_label_repel to have rectangle labels.
 
 ![8](https://user-images.githubusercontent.com/70166302/99691942-bf018000-2a57-11eb-84e9-fa07fa11ffef.png)
 
-*	Total goals in USA matches over the years: To continue focusing on one specific country, using geom_point it can be seen than during the year’s total goals of a match to be more obvious I used facet wrap function to show the away team player. For instance, in play with Czechoslovakia there were total of 6 goals in 1990.
+*	Total goals in *USA* matches over the years: To continue focusing on one specific country, using geom_point it can be seen than during the year’s total goals of a match to be more obvious I used facet wrap function to show the away team player. For instance, in play with *Czechoslovakia* there were total of *6* goals in *1990*.
 
 ![Picture10](https://user-images.githubusercontent.com/70166302/99696066-45b85c00-2a5c-11eb-8a69-39443500c7b5.png)
 
 
-
 ## Conclusion:
-•	According to histograms of Attendance and Total Goals as we see skewness in both plot, so if we want to have more specicific result, it is better to normalize them at first then work on data.
 
-•	Acoording to boxplot plots outliers for home team and away team goals are 7 and for total goals are 9 that should be considered in our analysis.
-•	Teams of Brazil and Hungary had the most Total Goals in home town matches.
+•	According to histograms of Attendance and Total Goals as we see skewness in first plot, so if we want to have more specicific result, it is better to normalize them at first then work on data.
 
-•	For audiences between 70,000 to 150,000 Number of attendance in cities like London and Mexico City and Los Angeles were the most in home town matches.
-•	For More than 50,000 attendance Teams of Brazil and Mexico had most audiences in home town matches.
+•	Teams of **Brazil** and **Hungary** had the most Total Goals in home town matches.
 
-•	For audiences more than 90,000 for games with 2 goals there were the most attendances in Rio De Janiro.
+•	For audiences between 70,000 to 150,000 Number of attendance in cities like **London** and **Mexico City** and **Los Angeles** were the most in home town matches.
+•	For More than **50,000** attendance Teams of **Brazil** and **Mexico** had most audiences in home town matches.
 
-•	Italy in 1970 has the most audiences more than 100,000 people.
+•	For audiences more than **90,000** for games with 2 goals there were the most attendances in **Rio De Janiro**.
 
-•	specifically for USA home team goals vs. away team goals was considered, there were 5 away team goals for Czechoslovakia and 1 home team goals for USA, also 3 goals for USA and 0 for Paraguay.
+•	**Italy** in **1970** has the most audiences more than 100,000 people.
 
-•	In matches which Brazil had played as one side there were lots of goals.
+•	specifically for **USA** home team goals vs. away team goals was considered, there were 5 away team goals for **Czechoslovakia** and 1 home team goals for a **USA**, also 3 goals for **USA** and 0 for **Paraguay**.
+
+•	In matches which **Brazil** had played as one side there were lots of goals.
 
