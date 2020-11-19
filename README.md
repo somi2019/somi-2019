@@ -9,6 +9,8 @@ For this mini project I worked on world cup matches dataset, which includes matc
 
 * Checking the distribution of both the variables using the *hist()* function. We can see in the graphs that the data is skewed to the right.
 
+![2](https://user-images.githubusercontent.com/70166302/99691907-b610ae80-2a57-11eb-9108-f726feacd8dd.png)
+
 
 
 
