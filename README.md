@@ -7,7 +7,7 @@ Somayeh Sadeghizadeh
 For this mini project I worked on world cup matches dataset, which includes matches during **1930 to 2014** held in different cities between different teams with some variables which I focouced on some of them mainly such as Home team goals, away team goals, audience and some other variable to be used was created for this report such as total goals. Here I put some main Visualization of my project in this file:
 
 
-* Checking the distribution of both the variables using the *hist()* function. We can see in the graphs that the data is skewed to the right.
+* Checking the distribution of *Total Goals* using the *hist()* function. We can see in the graphs that the data is skewed to the right.
 
 ![2](https://user-images.githubusercontent.com/70166302/99691907-b610ae80-2a57-11eb-9108-f726feacd8dd.png)
 
