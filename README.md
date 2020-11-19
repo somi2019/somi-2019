@@ -6,6 +6,8 @@ Somayeh Sadeghizadeh
 
 For this mini project I worked on world cup matches dataset, which includes matches during **1930 to 2014** held in different cities between different teams with some variables which I focouced on some of them mainly such as Home team goals, away team goals, audience and some other variable to be used was created for this report such as total goals. Here I put some main Visualization of my project in this file:
 
+![Picture10](https://user-images.githubusercontent.com/70166302/99696066-45b85c00-2a5c-11eb-8a69-39443500c7b5.png)
+
 
 * Checking the distribution of *Total Goals* using the *hist()* function. We can see in the graphs that the data is skewed to the right.
 
@@ -45,14 +47,20 @@ For this mini project I worked on world cup matches dataset, which includes matc
 
 
 
-##Conclusion:
+## Conclusion:
 •	According to histograms of Attendance and Total Goals as we see skewness in both plot, so if we want to have more specicific result, it is better to normalize them at first then work on data.
+
 •	Acoording to boxplot plots outliers for home team and away team goals are 7 and for total goals are 9 that should be considered in our analysis.
 •	Teams of Brazil and Hungary had the most Total Goals in home town matches.
+
 •	For audiences between 70,000 to 150,000 Number of attendance in cities like London and Mexico City and Los Angeles were the most in home town matches.
 •	For More than 50,000 attendance Teams of Brazil and Mexico had most audiences in home town matches.
+
 •	For audiences more than 90,000 for games with 2 goals there were the most attendances in Rio De Janiro.
+
 •	Italy in 1970 has the most audiences more than 100,000 people.
+
 •	specifically for USA home team goals vs. away team goals was considered, there were 5 away team goals for Czechoslovakia and 1 home team goals for USA, also 3 goals for USA and 0 for Paraguay.
+
 •	In matches which Brazil had played as one side there were lots of goals.
 
