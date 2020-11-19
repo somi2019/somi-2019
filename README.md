@@ -1,6 +1,6 @@
-# somi-2019
 ## Somayeh Sadeghizadeh
-## Master of Engineering Management
+
+## Data Visualization Course Project
 
 ## WorldCupMatches
 
