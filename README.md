@@ -12,14 +12,6 @@ For this mini project I worked on world cup matches dataset, which includes matc
 ![2](https://user-images.githubusercontent.com/70166302/99691907-b610ae80-2a57-11eb-9108-f726feacd8dd.png)
 
 
-*	Total Goals in Hometown Plays: Checking number of total goals for matches with higher goals which were played in hometowns, using (geom_col) filling with Home Team Goals and using element _text to have clear presentation to show high numbers in Brazil and Hungary.
-
-![3](https://user-images.githubusercontent.com/70166302/99691912-b741db80-2a57-11eb-91ff-bd2627182596.png)
-
-
-*	Total Goals in Hometown: to see median and outliers for every home team matches, in another plot I used boxplot and geom_jitter.to see the details more obvious.
-
-![4](https://user-images.githubusercontent.com/70166302/99691919-b90b9f00-2a57-11eb-9571-0bd5d29d157f.png)
 
 *	Attendance in Home Town : to show Drawing number of attendances in home team matches in different cities, attendance in cities like London and Mexico City and Los Angeles were more than other cities for, to be more specific I filtered number of audiences between 70,000 to 150,000 and used the function of facet_wrap to separate cities.
 
