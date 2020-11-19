@@ -41,6 +41,8 @@ For this mini project I worked on world cup matches dataset, which includes matc
 
 *	Total goals in USA matches over the years: To continue focusing on one specific country, using geom_point it can be seen than during the year’s total goals of a match to be more obvious I used facet wrap function to show the away team player. For instance, in play with Czechoslovakia there were total of 6 goals in 1990.
 
+![Picture10](https://user-images.githubusercontent.com/70166302/99696066-45b85c00-2a5c-11eb-8a69-39443500c7b5.png)
+
 
 
 ##Conclusion:
