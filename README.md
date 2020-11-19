@@ -17,12 +17,9 @@ For this mini project I worked on world cup matches dataset, which includes matc
 
 *	Attendance in Home Town : to show Drawing number of attendances in home team matches in different cities, attendance in cities like London and Mexico City and Los Angeles were more than other cities for, to be more specific I filtered number of audiences between 70,000 to 150,000 and used the function of facet_wrap to separate cities.
 
-
-*	Attendance VS. Home Team Name (More than 50000 attendance): Another format for checking games with high number of audiences for hometown games filled with total goals, in Brazil and Mexico had most audiences in home town matches.
-
 ![12](https://user-images.githubusercontent.com/70166302/99699679-376c3f00-2a60-11eb-8a6e-c802c31fc6fd.png)
 
-
+*	Attendance VS. Home Team Name (More than 50000 attendance): Another format for checking games with high number of audiences for hometown games filled with total goals, in Brazil and Mexico had most audiences in home town matches.
 
 ![5](https://user-images.githubusercontent.com/70166302/99691923-bad56280-2a57-11eb-99db-4b0a2359a4d3.png)
 
