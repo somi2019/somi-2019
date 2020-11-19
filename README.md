@@ -28,10 +28,6 @@ For this mini project I worked on world cup matches dataset, which includes matc
 ![6](https://user-images.githubusercontent.com/70166302/99691929-bc068f80-2a57-11eb-947b-2b53e66ace3a.png)
 
 
-*	Attendance VS. Total Goals: To see more details, filtered number of audiences for more than 90000 people and checked it versus number of total goals with the label of city on the games.as it can be seen for 2 goals games there were the most attendances in Rio De Janiro, using the label of cities on the plot.
-
-
-
 *	Attendance vs. Date: Plot shows relation of attendance versus the year the match was held, it is also colored by winning team, using the scale_colour_iwanthue() function and palette of hues which has lots of colors for qualitative variable. Italy in 1970 has the most audiences more than 100,000 people.
 
 ![7](https://user-images.githubusercontent.com/70166302/99691933-bd37bc80-2a57-11eb-94d6-26bb08d2608d.png)
